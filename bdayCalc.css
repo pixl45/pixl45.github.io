@@ -1,0 +1,16 @@
+html{
+  text-align: center;
+  background-color: azure;
+}
+
+body{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+em{
+  font-size: small;
+}
+
+img{
+  width: 185px;
+}
