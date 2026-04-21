@@ -1,2 +1,4 @@
 # pixl45.github.io
-okay so this is my website, kinda a WIP don't expect too much
+uhhhhh what do i put here
+so basically this is my personal website for projects, messing around, and... no actually thats it.
+WIP
